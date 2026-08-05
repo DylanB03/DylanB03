@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build practical AI products and the reliable systems behind them, from local-first desktop apps to distributed evaluation pipelines and real-time backends.
+  I build practical AI products and the reliable systems behind them
 </p>
 
 <p align="center">
