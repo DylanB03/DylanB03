@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build practical AI products and the reliable systems behind them — from local-first desktop apps to distributed evaluation pipelines and real-time backends.
+  I build practical AI products and the reliable systems behind them, from local-first desktop apps to distributed evaluation pipelines and real-time backends.
 </p>
 
 <p align="center">
@@ -19,9 +19,6 @@
 - Build and ship **AI-powered applications** with thoughtful, useful interfaces
 - Design **backend services and distributed systems** that stay reliable under load
 - Work across **AI infrastructure, cloud deployments, observability, and automation**
-- Turn ambitious ideas into products people can actually use
-
-Currently an **AI Software Developer at JSI Telecom**, previously a **Software & AI/ML Developer at Nokia**, and studying **Software Engineering at Carleton University**.
 
 ## Tools I reach for
 
