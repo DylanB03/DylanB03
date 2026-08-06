@@ -28,4 +28,5 @@
 
 <p align="center">
   <strong>Certified god gamer in Valorant, League of Legends, and Overwatch.</strong>
+  <strong>Guitar Virtuoso</strong>
 </p>
