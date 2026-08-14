@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.dylanb.ca"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-dylanb.ca-6C63FF?style=flat-square&logo=safari&logoColor=white"></a>
   <a href="https://linkedin.com/in/dylanbutz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dylan_Butz-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:dylanbutz@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Let's_talk-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:dylanbutz3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Let's_talk-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 ## What I do
